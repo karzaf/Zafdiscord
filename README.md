@@ -1,2 +1,2 @@
-# Zafdiscord
-Manager of group
+# ZafDiscord
+##Manager of discord group
